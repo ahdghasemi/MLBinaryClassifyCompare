@@ -1,4 +1,4 @@
-# MLBinaryClassifyCompare
+# Binary Classification Comparison
 This repository includes comparative analysis of ML algorithms for binary classification
 
 ## Description
