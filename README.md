@@ -1,6 +1,5 @@
 # MLBinaryClassifyCompare
-This name succinctly encapsulates the main elements of the repository:  ML: Machine Learning BinaryClassify: Binary Classification Compare: Comparison among various models
-# Comparative Analysis of Machine Learning Algorithms for Binary Classification
+This repository includes comparative analysis of ML algorithms for binary classification
 
 ## Description
 
@@ -11,3 +10,4 @@ This project aims to explore and compare various machine learning algorithms on 
 Ensure the following Python libraries are installed:
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+```
